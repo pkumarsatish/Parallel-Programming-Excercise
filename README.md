@@ -1,4 +1,4 @@
-# Parallel-Programming-Excercise
+# Parallel-Programming-Exercises
 Code and descriptions of selected parallel programming questions
 
 Documentation is underway. Read the pdf for parallelization stretagy and Experiment results. 
